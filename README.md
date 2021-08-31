@@ -1,4 +1,11 @@
 # Folklore
-Web page made with html and css about type of Argentine music
 
-https://gabriiel99.github.io/Folklore/
+Website made with html and css. It has images, direct hyperlinks like to other pages, ordered and disordered lists.
+
+The tabs are:
+* Historia
+* Festivales
+* Efemérides
+* Costumbres
+* Cantantes
+* Tienda
